@@ -6,3 +6,4 @@ selenium
 playwright
 langchain-google-genai 
 python-dotenv
+unstructured
