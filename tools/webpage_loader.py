@@ -1,4 +1,5 @@
-from langchain.document_loaders import WebBaseLoader, SeleniumURLLoader
+# from langchain.document_loaders import WebBaseLoader, SeleniumURLLoader
+from langchain_community.document_loaders import WebBaseLoader, SeleniumURLLoader
 from langchain.tools import Tool
 
 def load_web_content(url: str) -> str:

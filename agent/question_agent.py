@@ -1,5 +1,4 @@
 from langchain.agents import initialize_agent, AgentType
-from langchain.chat_models import ChatOpenAI  # Placeholder for Gemini
 from tools.webpage_loader import load_web_tool
 from llm import llm
 
