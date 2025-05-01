@@ -11,7 +11,7 @@ It uses **Langchain**, **Google Gemini**, and **Streamlit**, and supports JavaSc
 
    ```bash
    git clone https://github.com/siddique0786/Ask_Questions_from_Any_Webpage.git
-   cd your-repo-name
+   cd Ask_Questions_from_Any_Webpage
 
 2. **Create a virtual environment**: 
       ```bash
