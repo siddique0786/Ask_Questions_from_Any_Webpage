@@ -16,10 +16,12 @@ It uses **Langchain**, **Google Gemini**, and **Streamlit**, and supports JavaSc
 2. **Create a virtual environment**: 
       ```bash
       python -m venv venv
-      source venv/bin/activate  # On Windows: venv\Scripts\activate
+      source venv/bin/activate 
+              or 
+      On Windows: venv\Scripts\activate
 
 3. **Install the required packages**: 
-       ```bash
+    ```bash
        pip install -r requirements.txt
 
 4. **Make sure you have a .env file with your Gemini API key**:
